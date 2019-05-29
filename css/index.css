@@ -1,0 +1,55 @@
+nav .nav-wrapper {
+  background: #b2dfdb;
+  min-height: 10vh;
+}
+
+div[class*="columna"]{
+  min-height: 50rem;
+}
+div[class*="bloque"]{
+  height: 25rem;
+}
+.columna-chat, .columna-news{
+  padding: 0 !important;
+}
+.contenedor-write-publicacion{
+  min-height: 7rem;
+}
+.contenedor-publicacion{
+  min-height: 17rem;
+  padding: 2rem;
+}
+.logo{
+  width: 150px;
+  position: absolute;
+  z-index: 2;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  border-radius: 0.5rem;
+}
+
+.turimo-slogan {
+  margin-top: 2rem;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.turrismo-imagen-foro img {
+  float: left;
+  margin: 2%;
+  width: 25%;
+}
+
+.turrismo-imagen-foro {
+  background: #b2dfdb;
+  border: 4px solid white;
+}
+
+.turrismo-perfil-autor {
+ background: #b2dfdb;
+ border: 4px solid white;
+}
+
+.turismo-comentario {
+  border: 4px solid white;
+}
